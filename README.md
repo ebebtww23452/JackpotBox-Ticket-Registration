@@ -1,1 +1,0 @@
-# JackpotBox-Ticket-Registration
